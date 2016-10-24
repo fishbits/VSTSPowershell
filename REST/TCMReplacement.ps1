@@ -16,7 +16,7 @@
 # Notes on usage
 # The last two parameters are optional, all the others are required. If the last two are not used the test results will not be associated with a release
 # The is also a pollinginterval parameter which default to 10 seconds. The script starts a test run then polls on this interval to see if it has completed.
-# See http://blogs.blackmarble.co.uk/blogs/rfennell/post/2016/06/10/Running-Test-Suites-within-a-network-Isolated-Lab-Management-environment-when-using-TFS-vNext-build-and-release-tooling
+# See http://blogs.blackmarble.co.uk/blogs/rfennell/post/2016/09/27/Running-Test-Suites-within-a-network-Isolated-Lab-Management-environment-when-using-TFS-vNext-build-and-release-tooling
 
 param
 (
